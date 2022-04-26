@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+html{
+    background-color: darkblue;
+}
+article{
+    background-color: white;
+    width: 95%;
+    margin-left: 20px;
+    height: 120vh;
+}
+section{
+    margin-left: 10px;
+}
+h3{
+    border-bottom: solid 0.7pt black;
+}
+h1, h5{
+    background-color: #daf5ff;
+    margin-left: 20px;
+    margin-right: 40px;
+    color: rgb(0, 0, 0);
+}
+
+nav{
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 40px;
+    height: 30px;
+    font-size: 20px;
+}
+nav ul a{
+    color: white;
+    margin-left: 10px;
+}
+.ab{
+    color:grey;
+
+}
+.a{
+    background:darkblue;
+  
+}
+.abc{
+    color:black;
+}
+.a1{
+    color:white;
+    margin-left: 10px;
+}
